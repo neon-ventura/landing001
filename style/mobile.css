@@ -1,0 +1,33 @@
+@media screen and (max-width:768px){
+    header{
+        justify-content: space-between;
+    }
+
+    header > h1{
+        display: none;
+    }
+
+    main{
+        padding: 50px;
+    }
+
+    button{
+        display: block;
+        padding: 10px;
+        margin: auto;
+        margin-top: 20px;
+        width: 200px;
+        color: #E68050;
+        background-color:#472584 ;
+        border-radius: 20px;
+    }
+
+    .segundo-conteudo > img{
+        display: none;
+    }
+
+    .segundo-conteudo-mobile{
+        display: flex;
+        height: 450px;
+    }
+}
