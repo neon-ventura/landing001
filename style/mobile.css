@@ -39,7 +39,7 @@
     }
 
     .segundo-conteudo-mobile{
-        display: flex;
+        display: none;
         height: 200px;
     }
 }
