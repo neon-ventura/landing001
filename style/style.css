@@ -7,8 +7,11 @@
     color: white;
 }
 
-body{
+body, html{
     height: 100vh;
+}
+
+body{
     background-image: linear-gradient(45deg, #010626, #010B40, #590253);
     background-repeat: no-repeat;
     background-size: cover;
